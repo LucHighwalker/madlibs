@@ -1,0 +1,1 @@
+A simple madlibs python script for CS 1-1.
